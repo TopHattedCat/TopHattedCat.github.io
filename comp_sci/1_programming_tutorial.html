@@ -28,5 +28,63 @@ main()
 main()
 </code></pre>
 <p>This is the same as the first example, but it stores the string <code>World</code> in the variable <code>MyString</code> and then in the function <code>main</code>, it <strong>concatenates</strong> the <code>Hello</code> which is not stored in a variable, and <code>World</code> which is stored in the <code>MyString</code> variable.</p>
+<h2><a id="Maths_46"></a>Maths</h2>
+<h3><a id="Addition_48"></a>Addition</h3>
+<p>Addition in Python is very simple.</p>
+<pre><code class="language-python">MyNumber = <span class="hljs-number">5</span>
+
+print(str(MyNumber))
+
+MyNumber = MyNumber + <span class="hljs-number">5</span>
+
+print(str(MyNumber))
+</code></pre>
+<p>The first line defines a new variable, <code>MyNumber</code>, much like in the second example. The number is then converted to a string by the <code>str</code> function and printed. The program will print 5, then 5 will be added to the number so it will print 10.</p>
+<h3><a id="Multiplication_64"></a>Multiplication</h3>
+<p>This will print 5 then 25:</p>
+<pre><code class="language-python">MyNumber = <span class="hljs-number">5</span>
+
+print(str(MyNumber))
+
+MyNumber = MyNumber * <span class="hljs-number">5</span>
+
+print(str(MyNumber))
+</code></pre>
+<h3><a id="Division_76"></a>Division</h3>
+<p>This will print 10 then 5:</p>
+<pre><code class="language-python">MyNumber = <span class="hljs-number">10</span>
+
+print(str(MyNumber))
+
+MyNumber = MyNumber / <span class="hljs-number">2</span>
+
+print(str(MyNumber))
+</code></pre>
+<h3><a id="Subtraction_88"></a>Subtraction</h3>
+<p>This will print 5 then 0:</p>
+<pre><code class="language-python">MyNumber = <span class="hljs-number">5</span>
+
+print(str(MyNumber))
+
+MyNumber = MyNumber - <span class="hljs-number">5</span>
+
+print(str(MyNumber))
+</code></pre>
+<h2><a id="If_Statements_100"></a>If Statements</h2>
+<p>If statements allow you to make something happen if conditions are met. For example, you could add 5 to a number if the number equals 5.</p>
+<pre><code class="language-python">MyNumber = <span class="hljs-number">5</span>
+
+<span class="hljs-keyword">if</span> MyNumber == <span class="hljs-number">5</span>:
+    MyNumber = MyNumber + <span class="hljs-number">5</span>
+</code></pre>
+<p>The first line defines <code>MyNumber</code> as 5. The second checks if the number equals 5, and if it does, it will add 5 to the number.</p>
+<h2><a id="For_Loops_110"></a>For Loops</h2>
+<p>A ‘for’ statement makes some code run a set number of times.</p>
+<p>Example:</p>
+<pre><code class="language-python"><span class="hljs-keyword">for</span> i <span class="hljs-keyword">in</span> range(<span class="hljs-number">1</span>, <span class="hljs-number">10</span>, <span class="hljs-number">1</span>):
+    print(<span class="hljs-string">"The number is "</span> + str(i))
+</code></pre>
+<p>This code will print the numbers 1 to 10, each on a different line.</p>
+<p>The first line is the actual for loop. it creates a loop which will loop from 1 to 10, increasing by 1 each time. The code will then run for each number between 1 and 10, so it will print 10 times.</p>
 
 </body></html>
