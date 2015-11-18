@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/tophattedcat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tophattedcat.co.uk
+  * I am tophattedcat (https://keybase.io/tophattedcat) on keybase.
+  * I have a public key with fingerprint 546A 8347 DA8D 8A38 2B2E  63A7 65B8 35EE FBB9 F217
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.23"
+        },
+        "key": {
+            "eldest_kid": "01012f0364679ed9be3ad6fb6c0ee08107ad934ebbcc617cbcb3505dbe50093d809a0a",
+            "fingerprint": "546a8347da8d8a382b2e63a765b835eefbb9f217",
+            "host": "keybase.io",
+            "key_id": "65b835eefbb9f217",
+            "kid": "01012f0364679ed9be3ad6fb6c0ee08107ad934ebbcc617cbcb3505dbe50093d809a0a",
+            "uid": "3b0067d2140edf396f3f18cc2d763e19",
+            "username": "tophattedcat"
+        },
+        "service": {
+            "hostname": "tophattedcat.co.uk",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1447881160,
+    "expire_in": 157680000,
+    "prev": "3622020db43c076a624214e23c23c101f3479815f28408c7ce4c50093d4e07a5",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owGtUltoFUcYPufkwjFqlFYUUVEWtCqnp7M7u7OzJwS8YB+8UYrYh4DHnZl/k/XE
+3ePuJjGEE7yBFzRRKnhpbRpRSi1FRCRFKLFQ0fa03hFpweuDCYIYvAuW7sQUKvjo
+MA8D//d///d9/+weW5FIJ+9d6er7++axzmR5kCVWLh0836EwX7QruQ6FN7vgRfLl
+2WtBySkFaGd2CFnXn+H5ArJrwhkjmIzSCkHo+l6MQlma1bBSyki87IZmAWGUL7hC
+VlWkag7CRCemBcJigG1BHEY4AkBURaYtLKwDY5wT1eSMM2wgQzAwELKwoMiykR0P
+dFyvEYJi4EqJiqETm2LdFDYV1MZUYxoQbJvEYBQbAA5jlqOpZtzY5IfRW2aUYaX5
+YXnvwL9n3S3DdJghREyhqToC4WCLONhRKeeaMAkG1ZLAEIKR4CO/2GRHEQhuRzLY
+uNLqcpDhSjfvQGW5n20pxCzFwI987jfH9aYoKoY52R+1F2VDG7D8CFWeud5hEUf6
+/1WqMZRHriRXdd2kVFUJyiiwvugGkHclwjAJRfGRg6BVGiOahjQkmI45MolNND02
+CRrm8Y0zdOIlWVQ1HI3qiHKTg87fJKRDnKGhSHfrPF/JGbFOuzGmDN1Gz45aAlBK
+25NTKxPJdKK6KiX/aqJm1Pj/PnDnUDqxtW7DPydPk97Bg6Mrn5cOf7x3daq3G/XO
+frBiXs8P437a9XT3nO/zKw511L6uXLT/Uercqmubs9UNk3sqvhtXf/PxkQ/si7/d
+qRr4dmV6ed/Ghaf7Zv7etSfI7P/8wqF0NXy49WTN0SkNl2fXbur5s8S3lFKrR994
+Pm/By/ZT5wYGur5+9uzWR8vaTi3ZlX41cebx8o7qo6tenhgb5SbwuV8tX3/9r4t/
+jHlRNenErLrg8d5ft3f304Pl7lt3OfRPf9WQOnPmoTn9wO2eb64P1dVUXCpscBZf
+xT+vmfrLZ5Xl+hfz66/Wep8kv+z88dEX047MD+vp/bX7Fmzrf9JZDgczZ4eal1a0
+HWspfLrzXw==
+=oEPQ
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tophattedcat
+
+==================================================================
